@@ -5444,7 +5444,7 @@ body.layout-6 .pcoded-content.mychange .pcoded-inner-content.mychange {
 }
 .parallax1{
   background: url("../images/maharishiuniversity.jpg") no-repeat center center;
-  background-size: contain;
+  background-size: cover;
   background-attachment: fixed;
   height: 650px;
 }
@@ -5469,7 +5469,7 @@ body.layout-6 .pcoded-content.mychange .pcoded-inner-content.mychange {
   height: 500px;
 }
 .parallax5{
-  height: 500px;
+  height: 700px;
   background-color: darkgoldenrod;
   margin-left: 50px;
   margin-right: 50px;
@@ -5613,7 +5613,8 @@ div.e {
 }
 .paragraphcname{
   font-family: 'Hoefler Text';
-  color: darkgoldenrod;
+  color: #f22012;
+  font-size: 60px;
   background-color: black;
   height: 100px;
   margin-top: 30px;
@@ -5626,6 +5627,33 @@ div.e {
 
 body{
   background-color: black;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 25%;
+  float: right;
+  margin-right: 200px;
+  margin-top: 75px;
+}
+.card1 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 25%;
+  float: left;
+  margin-left: 200px;
+  margin-top: 75px;
+}
+.card:hover {
+  box-shadow: 0 15px 32px 0 rgba(0,0,0,0.4);
+}
+.card1:hover {
+  box-shadow: 0 15px 32px 0 rgba(0,0,0,0.4);
+}
+.container1 {
+  background-color: wheat;
+  padding: 2px 16px;
 }
 /*body.layout-6 .pcoded-content .pcoded-inner-content1 .parallax1,.parallax2,.parallax3{*/
 /*  margin-top: -200px;*/

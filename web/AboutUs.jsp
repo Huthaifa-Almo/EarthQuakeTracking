@@ -100,20 +100,45 @@
                     </div>
                 </div>
                 <h1 class="paragraphname">Huthaifa Almogdady</h1>
-                <h1 class="paragraphcname">from JORDAN</h1>
+                <h1 class="paragraphcname">JORDAN</h1>
                 <div class="parallax3">
 
                 </div>
                 <h1 class="paragraphname">Alex Qiu</h1>
-                <h1 class="paragraphcname">from CHINA</h1>
+                <h1 class="paragraphcname">CHINA</h1>
                 <div class="parallax4">
 
                 </div>
                 <h1 class="paragraph4">CONTACT INFORMATION</h1>
                 <div class="parallax5">
+                    <div class="card">
+                        <img src="assets/images/huth.jpg" alt="Avatar" style="width:100%">
+                        <div class="container1">
+                            <h4><strong>Huthaifa Almogdady</strong></h4>
+                            <p><strong><em>"Analyst Programmer"</em></strong></p>
+                            <p>Master Degree In Computer Science</p>
+                            <p>Bachelor Degree In Computer Information System</p>
+                            <p>Diploma Degree In Electrical Engineering</p>
+                            <a href="Halmogdady@mum.edu">Halmogdady@mum.edu</a>
+                        </div>
+                    </div>
 
-                </div>
+                    <div class="card1">
+                        <img src="assets/images/ale.jpg" alt="Avatar" style="width:100%">
+                        <div class="container1">
+                            <h4><strong>Alex Qie</strong></h4>
+                            <p><strong><em>"SoftWare Engineer"</em></strong></p>
+                            <p>Bachelor Degree In Software Engineering</p>
+                            <a href="xqiu@mum.edu">xqiu@mum.edu</a>
+
+
+                        </div>
+                    </div>
+
             </div>
+                <footer class="card-footer">&copy; Copyright 2019 WAP,CS472 @Huthaifa & Alex</footer>
+
+
         </div>
     </div>
 </div>

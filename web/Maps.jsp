@@ -71,7 +71,8 @@
                 <p id=text>Expect to load soon, or there's an issue...</p>
                 <div id="slider-range" title="Move the slider below to display earthquakes on the world map."></div>
         </div>
-    </div>
+            <footer class="card-footer">&copy; Copyright 2019 WAP,CS472 @Huthaifa & Alex</footer>
+        </div>
 </div>
 <!-- [ Main Content ] end -->
 
