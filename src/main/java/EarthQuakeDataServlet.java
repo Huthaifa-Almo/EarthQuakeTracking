@@ -19,7 +19,10 @@ public class EarthQuakeDataServlet extends HttpServlet {
     public void init() {
         quakes = new ArrayList<>();
         try {
-            Scanner scanner = new Scanner(Paths.get("C:/Users/Owner/Desktop/cs472Project/web/assets/files/earthquake.csv"));
+            String pathcsv = this.getServletContext().getRealPath(
+                "assets/files/earthquake.csv"
+            );
+            Scanner scanner = new Scanner(Paths.get(pathcsv));
             while (scanner.hasNextLine()) {
                 quakes.add(getQuakeJson(scanner.nextLine()));
             }
