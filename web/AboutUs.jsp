@@ -56,6 +56,10 @@
                     <a href="AboutUs.jsp" class="nav-link "><span class="pcoded-micon"><i
                             class="feather icon-users"></i></span><span class="pcoded-mtext">About Us</span></a>
                 </li>
+                <li data-username="about us" class="nav-item active">
+                    <a href="/cs472Project_war_exploded/Login?action=logout" class="nav-link "><span class="pcoded-micon"><i
+                            class="feather icon-log-out"></i></span><span class="pcoded-mtext">Log Out</span></a>
+                </li>
 
             </ul>
         </div>
@@ -126,7 +130,7 @@
                     <div class="card1">
                         <img src="assets/images/ale.jpg" alt="Avatar" style="width:100%">
                         <div class="container1">
-                            <h4><strong>Alex Qie</strong></h4>
+                            <h4><strong>Alex Qiu</strong></h4>
                             <p><strong><em>"SoftWare Engineer"</em></strong></p>
                             <p>Bachelor Degree In Software Engineering</p>
                             <a href="xqiu@mum.edu">xqiu@mum.edu</a>

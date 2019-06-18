@@ -54,7 +54,10 @@
         <li data-username="about us" class="nav-item active">
           <a href="AboutUs.jsp" class="nav-link "><span class="pcoded-micon"><i class="feather icon-users"></i></span><span class="pcoded-mtext">About Us</span></a>
         </li>
-
+        <li data-username="about us" class="nav-item active">
+          <a href="/cs472Project_war_exploded/Login?action=logout" class="nav-link "><span class="pcoded-micon"><i
+                  class="feather icon-log-out"></i></span><span class="pcoded-mtext">Log Out</span></a>
+        </li>
       </ul>
     </div>
   </div>
