@@ -10,8 +10,7 @@
     <link rel="stylesheet" type="text/css" href="assets/vendor/animate/animate.css">
     <link rel="stylesheet" type="text/css" href="assets/vendor/css-hamburgers/hamburgers.min.css">
     <link rel="stylesheet" type="text/css" href="assets/vendor/select2/select2.min.css">
-    <link rel="stylesheet" type="text/css" href="assets/css/util.css">
-    <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+
 
 </head>
 <body>
@@ -56,7 +55,8 @@
     </div>
 </div>
 </div>
-
+<link rel="stylesheet" type="text/css" href="assets/css/util.css">
+<link rel="stylesheet" type="text/css" href="assets/css/main.css">
 <script src="assets/vendor/jquery/jquery-3.2.1.min.js"></script>
 <script src="assets/vendor/bootstrap/js/popper.js"></script>
 <script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script>
